@@ -1,5 +1,8 @@
 # real_time_graphs
-This is a python code to make real time graphics using data transmited from COM port
+
+NOT WORKING YET!!!
+
+This is a python code to make real time graphics using data recived from COM port and transmited from BMP388 (you can use other sensors) 
 
 Libraries used:
   - "serial" # recive and read the data transmited from our sensor 
